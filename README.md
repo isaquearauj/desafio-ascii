@@ -25,5 +25,5 @@ Este projeto é uma página interativa que gera formas geométricas aleatórias 
 
 ## 📬 Contato
 
-📧 **Email:** [isaquej11@gmail.com](mailto\:isaquej11@gmail.com)\
+📧 **Email:** [isaqueaj11@gmail.com](mailto\:isaqueaj11@gmail.com)\
 💼 **LinkedIn:** [Isaque Araujo](https://linkedin.com/in/isaquearauj)
